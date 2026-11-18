@@ -1,0 +1,5 @@
+com\mycompany\productsalesreport\ProductSalesReport.class
+com\mycompany\productsalesreport\PrintProduct.class
+com\mycompany\productsalesreport\IProduct.class
+com\mycompany\productsalesreport\Product.class
+com\mycompany\productsalesreport\ProductAppGUI.class
